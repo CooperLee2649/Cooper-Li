@@ -4,7 +4,7 @@
 
 ### Gmae
 
-[Game](/sample_page)
+[Game](/sample_page.md)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
