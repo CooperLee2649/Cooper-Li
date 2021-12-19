@@ -7,11 +7,11 @@
 [Game](/sample_page.md)
 
 ---
-[GOT analysis](/sample2.md)
+[GOT analysis](/GOT.html)
 
 
 ---
-[Mobile user analysis](/sample3.md)
+[Mobile user analysis](/Team_15_A2_Analysis (4).html)
 
 ---
 
