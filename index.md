@@ -15,5 +15,5 @@
 ---
 
 ### Climate Change
-<p style="font-size:11px"><a href=https://public.tableau.com/app/profile/cooper.li6828/viz/GobalclimateChange/Story1?publish=yes>Tableau</a></p>
+<p style="font-size:11px"><a href=https://public.tableau.com/app/profile/cooper.li6828/viz/GobalclimateChange/Story1?publish>Tableau</a></p>
 <!-- Remove above link if you don't want to attibute -->
