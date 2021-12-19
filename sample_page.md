@@ -1,6 +1,6 @@
 # Python Coding
 
-<br>
+<br># Python Coding
 
 """ Author: Cooper (Jian) Li
     Introduction: 
@@ -661,6 +661,4 @@ def fail():
 
                 
 
-start() 
-
-<br>
+start() <br>
