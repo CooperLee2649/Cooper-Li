@@ -7,7 +7,7 @@
 [Game](/sample_page.md)
 
 ---
-[GOT analysis](/GOT.html)
+[GOT analysis](/Jian_Li_A1_Classification_Analysis.html)
 
 
 ---
